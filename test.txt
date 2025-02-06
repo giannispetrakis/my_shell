@@ -1,0 +1,13 @@
+total 184
+-rwxrwxrwx 1 giannispetrakis giannispetrakis  4136 May  5  2023 aliases.c
+-rwxrwxrwx 1 giannispetrakis giannispetrakis  2741 May  5  2023 functions.c
+-rwxrwxrwx 1 giannispetrakis giannispetrakis  3099 May  5  2023 mainloop.c
+-rwxrwxrwx 1 giannispetrakis giannispetrakis   195 May  5  2023 makefile
+-rwxrwxrwx 1 giannispetrakis giannispetrakis 27104 Apr 22 15:33 mysh
+-rwxrwxrwx 1 giannispetrakis giannispetrakis  4052 May  5  2023 pipes.c
+-rwxrwxrwx 1 giannispetrakis giannispetrakis 78684 May  5  2023 readme.pdf
+-rwxrwxrwx 1 giannispetrakis giannispetrakis  3669 May  5  2023 redirection.c
+-rwxrwxrwx 1 giannispetrakis giannispetrakis   812 May  3  2023 shell.h
+-rwxrwxrwx 1 giannispetrakis giannispetrakis 44477 May  5  2023 syspro2023_hw1_completion_report.pdf
+-rwxrwxrwx 1 giannispetrakis giannispetrakis     0 Apr 22 15:33 test.txt
+-rwxrwxrwx 1 giannispetrakis giannispetrakis  1386 May  5  2023 wild_characters.c
