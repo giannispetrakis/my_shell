@@ -8,7 +8,9 @@ MySH is a simple shell implemented in C for Linux environments. It allows users 
 ✅ Allows piping between commands (`|`)  
 ✅ Supports background execution (`command &`)  
 ✅ Handles signals (`SIGINT`, `SIGTSTP`)  
-✅ Provides wildcard support (`*`, `?`) for file matching  
+✅ Provides wildcard support (`*`, `?`) for file matching 
+✅ Handles alliases
+✅ Shows history (myHistory), 20 previous commands
 
 ## Installation  
 
@@ -33,7 +35,9 @@ Example commands:
 ls -l > output.txt    # Redirect output to a file  
 cat < file.txt        # Redirect input from a file  
 ls | grep ".c"        # Pipe output to another command  
-sleep 10 &            # Run command in background  
+sleep 10 &            # Run command in background
+createalias myhome “cd /home/users/smith”;  # Create allias named myhome
+ls file*.t?t          # Wild character
 ```  
 
 ## License  
