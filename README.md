@@ -19,7 +19,7 @@ MySH is a simple shell implemented in C for Linux environments. It allows users 
    ```  
 2. Compile the shell:  
    ```sh
-   gcc -o mysh mysh.c
+   make
    ```  
 
 ## Usage  
